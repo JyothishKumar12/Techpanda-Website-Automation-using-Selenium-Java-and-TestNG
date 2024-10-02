@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-02T12:07:02 IST" name="Default suite" finished-at="2024-08-02T12:07:36 IST" duration-ms="34750">
+    <groups>
+    </groups>
+    <test started-at="2024-08-02T12:07:02 IST" name="Default test" finished-at="2024-08-02T12:07:36 IST" duration-ms="34750">
+      <class name="com.TechPanda.TestCase10">
+        <test-method is-config="true" signature="SetupAll()[pri:0, instance:com.TechPanda.TestCase10@52bf72b5]" started-at="2024-08-02T12:07:02 IST" name="SetupAll" finished-at="2024-08-02T12:07:16 IST" duration-ms="14763" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupAll -->
+        <test-method signature="test10()[pri:0, instance:com.TechPanda.TestCase10@52bf72b5]" started-at="2024-08-02T12:07:16 IST" name="test10" finished-at="2024-08-02T12:07:36 IST" duration-ms="19880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test10 -->
+      </class> <!-- com.TechPanda.TestCase10 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
